@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/tx-pipeline-fee-bump-default",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/tx-pipeline-fee-bump-default": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/tx-pipeline-fee-bump-default",
+    "origin"
+  ]
+}
